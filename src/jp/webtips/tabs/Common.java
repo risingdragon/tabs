@@ -6,7 +6,7 @@ public class Common
 {
 	public static void log(Object msg)
 	{
-		Log.d("Tabs", msg == null ? "null" : msg.toString());
+		Log.d("MyDebug", msg == null ? "null" : msg.toString());
 	}
 
 }

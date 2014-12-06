@@ -4,5 +4,9 @@
 	<string name="app_name">Tabs</string>
 	<string name="hello_world">Hello world!</string>
 	<string name="action_settings">Settings</string>
+    <string name="progress_title">通信中</string>
+    <string name="now_loading">ただいま通信中です</string>
+    <string name="please_wait">しばらくお待ちください</string>
+    <string name="error_networkd">通信でエラーが発生しました。電波状況の良いところでお試しください。</string>
 
 </resources>
